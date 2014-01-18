@@ -83,7 +83,7 @@ var edgeMST = Kruskal.kruskal( verts, edges, metric_dist );
 //printVert(verts);
 //printEdge(verts, edges);
 
-// Pinrt minimum spanning tree
+// Pnirt minimum spanning tree
 for (var ind in edgeMST)
 {
   var u = edgeMST[ind][0];
