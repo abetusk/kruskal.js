@@ -3,6 +3,9 @@
 
 A simple implementation of Kruskal's algorithm to find the minimum spanning tree of a graph.
 
+This implementation needs only the edge list, not the whole adjacency matrix, so could be more
+efficient for sparser graphs.
+
 [Kruskal's Algorithm](http://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 
 
