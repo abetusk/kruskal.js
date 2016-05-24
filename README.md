@@ -14,7 +14,7 @@ Usage
 
 Here is an example of finding the minimum spanning tree given in the example directory:
 
-![alt tag](https://raw2.github.com/abetusk/kruskal.js/master/example/kruskalExample.jpg)
+![alt tag](https://raw.githubusercontent.com/abetusk/kruskal.js/release/example/kruskalExample.jpg)
 
 See 'example/example.js' for a full example.  Here is an abridged version:
 
