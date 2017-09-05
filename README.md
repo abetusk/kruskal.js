@@ -16,7 +16,7 @@ Here is an example of finding the minimum spanning tree given in the example dir
 
 ![alt tag](https://raw.githubusercontent.com/abetusk/kruskal.js/release/example/kruskalExample.jpg)
 
-See `example/example.js` for a full example.  Here is an abridged version:
+See [example/example.js](https://github.com/abetusk/kruskal.js/blob/release/example/example.js) for a full example.  Here is an abridged version:
 
     // vertices hold data that will be used in the distance metric function
     var verticies = [ 
